@@ -1,5 +1,6 @@
 # Cryptocurrency Data Fetcher
-![coinmarketcap.jpg]()
+
+![Crypto Data](images/crypto_data.png)
 
 This project provides Python scripts to fetch and process historical cryptocurrency data (Bitcoin and Ethereum) using the CoinMarketCap API. The data includes hourly price, market cap, and volume information and can be saved to CSV files.
 
